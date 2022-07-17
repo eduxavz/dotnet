@@ -1,1 +1,1 @@
-🔥 My PC Settings
+<Title> 🔥 My PC Settings </Title>
